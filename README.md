@@ -67,9 +67,9 @@
 - 여러 상품 주문 시 금액이 2~3배로 합산되는 문제 → 주문 총액과 상품별 금액의 계산 기준 분리
 - 상품마다 배송비가 중복 부과되는 문제 → 주문 단위로 배송비 로직 일원화
 
-### 🏦 [OnBank](https://github.com/gmake20/sist_onbank_2026) — 인터넷 뱅킹 웹 서비스 `마무리 단계`
+### 🏦 [OnBank](https://github.com/gmake20/sist_onbank_2026) — 인터넷 뱅킹 웹 서비스
 
-> 팀 프로젝트 · 2026.10 ~ · Spring Boot · Spring Data JPA · Spring Security · Thymeleaf · MySQL<br>
+> 팀 프로젝트 · 2026.10.12 ~ 2026.10.23 (2주) · Spring Boot · Spring Data JPA · Spring Security · Thymeleaf · MySQL<br>
 > 계좌 도메인(팀2) 담당
 
 **담당 기능**
@@ -77,6 +77,7 @@
 - 입출금, 계좌이체 (10만 원 초과 타인 이체 시 OTP 인증)
 - 예약이체 등록 · 조회 · 취소 및 스케줄러 자동 실행
 - 자산관리 리포트 화면 (대출 연동)
+- 메인 페이지 및 로고 디자인
 
 <br>
 
