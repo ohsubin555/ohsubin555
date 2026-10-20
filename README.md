@@ -23,6 +23,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square&logoColor=white)
 ![JSP/Servlet](https://img.shields.io/badge/JSP%2FServlet-F8981D?style=flat-square&logoColor=white)
@@ -36,6 +37,7 @@
 
 **Database**<br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **DevOps & Tools**<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -64,6 +66,17 @@
 - 1:N JOIN 후 ROWNUM 페이징 시 주문이 잘리는 문제 → 주문번호를 먼저 거르는 3중 서브쿼리 페이징으로 해결
 - 여러 상품 주문 시 금액이 2~3배로 합산되는 문제 → 주문 총액과 상품별 금액의 계산 기준 분리
 - 상품마다 배송비가 중복 부과되는 문제 → 주문 단위로 배송비 로직 일원화
+
+### 🏦 [OnBank](https://github.com/gmake20/sist_onbank_2026) — 인터넷 뱅킹 웹 서비스 `마무리 단계`
+
+> 팀 프로젝트 · 2026.10 ~ · Spring Boot · Spring Data JPA · Spring Security · Thymeleaf · MySQL<br>
+> 계좌 도메인(팀2) 담당
+
+**담당 기능**
+- 계좌 개설 · 계좌 상태 변경 · 계좌 / 상대계좌 즐겨찾기
+- 입출금, 계좌이체 (10만 원 초과 타인 이체 시 OTP 인증)
+- 예약이체 등록 · 조회 · 취소 및 스케줄러 자동 실행
+- 자산관리 리포트 화면 (대출 연동)
 
 <br>
 
