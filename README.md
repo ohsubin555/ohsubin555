@@ -91,7 +91,6 @@
 | [JavaClass](https://github.com/ohsubin555/JavaClass) | Java 개발환경(IDE) 설정 실습 · 수업 자료 정리 |
 | [ORACLE-](https://github.com/ohsubin555/ORACLE-) | Oracle SQL · PL/SQL 일자별 실습 (HR · SCOTT 스키마) |
 | [JDBCClass](https://github.com/ohsubin555/JDBCClass) | JDBC 실습, Controller · Service · DAO 구조의 게시판 구현 및 테스트 |
-| [HTML](https://github.com/ohsubin555/HTML) | HTML · CSS · JavaScript 실습, 게시판 화면(목록 · 상세 · 작성) |
 | [WebClass](https://github.com/ohsubin555/WebClass) | 웹 수업 전체 실습 (HTML · CSS · JavaScript · jQuery) |
 | [JSPClass](https://github.com/ohsubin555/JSPClass) | JSP · Servlet 실습 (MVC 패턴 · 필터 · 세션), 회원 · 게시판 구현 |
 | [SpringLegacyClass](https://github.com/ohsubin555/SpringLegacyClass) | Spring MVC · DI · AOP · MyBatis · 트랜잭션 · Spring Security 단계별 실습, 게시판(페이징 · 검색 · 댓글 · 파일 업로드) |
