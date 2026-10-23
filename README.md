@@ -67,7 +67,7 @@
 - 여러 상품 주문 시 금액이 2~3배로 합산되는 문제 → 주문 총액과 상품별 금액의 계산 기준 분리
 - 상품마다 배송비가 중복 부과되는 문제 → 주문 단위로 배송비 로직 일원화
 
-### 🏦 [OnBank](https://github.com/gmake20/sist_onbank_2026) — 인터넷 뱅킹 웹 서비스
+### 🏦 [OnBank](https://github.com/ohsubin555/ONBANK) — 인터넷 뱅킹 웹 서비스
 
 > 팀 프로젝트 · 2026.10.06 ~ 2026.10.23 (3주) · Spring Boot · Spring Data JPA · Spring Security · Thymeleaf · MySQL<br>
 > 계좌 도메인(팀2) 담당
@@ -93,6 +93,9 @@
 | [JDBCClass](https://github.com/ohsubin555/JDBCClass) | JDBC 실습, Controller · Service · DAO 구조의 게시판 구현 및 테스트 |
 | [HTML](https://github.com/ohsubin555/HTML) | HTML · CSS · JavaScript 실습, 게시판 화면(목록 · 상세 · 작성) |
 | [WebClass](https://github.com/ohsubin555/WebClass) | 웹 수업 전체 실습 (HTML · CSS · JavaScript · jQuery) |
+| [JSPClass](https://github.com/ohsubin555/JSPClass) | JSP · Servlet 실습 (MVC 패턴 · 필터 · 세션), 회원 · 게시판 구현 |
+| [SpringLegacyClass](https://github.com/ohsubin555/SpringLegacyClass) | Spring MVC · DI · AOP · MyBatis · 트랜잭션 · Spring Security 단계별 실습, 게시판(페이징 · 검색 · 댓글 · 파일 업로드) |
+| [SpringBootClass](https://github.com/ohsubin555/SpringBootClass) | Spring Boot · JPA · Thymeleaf 실습 (방명록 · 게시판 · 영화 리뷰 · Security · JWT) |
 | [ReactClass](https://github.com/ohsubin555/ReactClass) | React 컴포넌트 단계별 실습 |
 | [react-practice](https://github.com/ohsubin555/react-practice) | React + Vite 게시판 CRUD 실습 |
 
