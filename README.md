@@ -91,12 +91,12 @@
 | [react-practice](https://github.com/ohsubin555/react-practice) | React + Vite 게시판 CRUD |
 
 <details>
-<summary>기초 실습 저장소 더 보기</summary>
+<summary><ins>기초 실습 저장소 더 보기</ins></summary>
 <br>
 
 [javaPro](https://github.com/ohsubin555/javaPro) (Java 기초 문법) ·
 [JDBCClass](https://github.com/ohsubin555/JDBCClass) (JDBC 게시판) ·
-[WebClass](https://github.com/ohsubin555/WebClass) (HTML · CSS · JS · jQuery) ·
+[WebClass](https://github.com/ohsubin555/WebClass) (HTML · CSS · JS · jQuery)<br>
 [ReactClass](https://github.com/ohsubin555/ReactClass) (React 컴포넌트) ·
 [JavaClass](https://github.com/ohsubin555/JavaClass) (IDE 설정 · 수업 자료)
 
