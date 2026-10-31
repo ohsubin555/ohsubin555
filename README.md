@@ -78,24 +78,21 @@
 
 <br>
 
-## 📚 Study
+📚 Study
 
 쌍용교육센터 과정 중 작성한 수업 실습 저장소입니다.
 
-| 저장소 | 내용 |
-|---|---|
-| [javaPro](https://github.com/ohsubin555/javaPro) | Java 기초 문법 실습 |
-| [JavaClass](https://github.com/ohsubin555/JavaClass) | Java 개발환경(IDE) 설정 실습 · 수업 자료 정리 |
-| [ORACLE-](https://github.com/ohsubin555/ORACLE-) | Oracle SQL · PL/SQL 일자별 실습 (HR · SCOTT 스키마) |
-| [JDBCClass](https://github.com/ohsubin555/JDBCClass) | JDBC 실습, Controller · Service · DAO 구조의 게시판 구현 및 테스트 |
-| [WebClass](https://github.com/ohsubin555/WebClass) | 웹 수업 전체 실습 (HTML · CSS · JavaScript · jQuery) |
-| [JSPClass](https://github.com/ohsubin555/JSPClass) | JSP · Servlet 실습 (MVC 패턴 · 필터 · 세션), 회원 · 게시판 구현 |
-| [SpringLegacyClass](https://github.com/ohsubin555/SpringLegacyClass) | Spring MVC · DI · AOP · MyBatis · 트랜잭션 · Spring Security 단계별 실습, 게시판(페이징 · 검색 · 댓글 · 파일 업로드) |
-| [SpringBootClass](https://github.com/ohsubin555/SpringBootClass) | Spring Boot · JPA · Thymeleaf 실습 (방명록 · 게시판 · 영화 리뷰 · Security · JWT) |
-| [ReactClass](https://github.com/ohsubin555/ReactClass) | React 컴포넌트 단계별 실습 |
-| [react-practice](https://github.com/ohsubin555/react-practice) | React + Vite 게시판 CRUD 실습 |
+저장소	내용
+SpringBootClass	Spring Boot · JPA · Thymeleaf 실습 (방명록 · 게시판 · 영화 리뷰 · Security · JWT)
+SpringLegacyClass	Spring MVC · MyBatis · 트랜잭션 · Security 실습, 게시판 (페이징 · 검색 · 댓글 · 파일 업로드)
+JSPClass	JSP · Servlet MVC 패턴 · 필터 · 세션, 회원 · 게시판 구현
+ORACLE-	Oracle SQL · PL/SQL 일자별 실습
+react-practice	React + Vite 게시판 CRUD
+<details> <summary>기초 실습 저장소 더 보기</summary> <br>
 
-<br>
+javaPro (Java 기초 문법) · JDBCClass (JDBC 게시판) · WebClass (HTML · CSS · JS · jQuery) · ReactClass (React 컴포넌트) · JavaClass (IDE 설정 · 수업 자료)
+
+</details> <br>
 
 ## 📫 Contact
 
