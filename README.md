@@ -66,7 +66,7 @@
 
 ### 🏦 [OnBank](https://github.com/ohsubin555/ONBANK) — 인터넷 뱅킹 웹 서비스
 
-> 팀 프로젝트 · 2026.10.06 ~ 2026.10.23 (3주) · Spring Boot · Spring Data JPA · Spring Security · Thymeleaf · MySQL<br>
+> 팀 프로젝트 (4인) · 2026.10.06 ~ 2026.10.23 (3주) · Spring Boot · Spring Data JPA · Spring Security · Thymeleaf · MySQL<br>
 > 계좌 도메인(팀2) 담당
 
 **담당 기능**
@@ -78,21 +78,31 @@
 
 <br>
 
-📚 Study
+## 📚 Study
 
 쌍용교육센터 과정 중 작성한 수업 실습 저장소입니다.
 
-저장소	내용
-SpringBootClass	Spring Boot · JPA · Thymeleaf 실습 (방명록 · 게시판 · 영화 리뷰 · Security · JWT)
-SpringLegacyClass	Spring MVC · MyBatis · 트랜잭션 · Security 실습, 게시판 (페이징 · 검색 · 댓글 · 파일 업로드)
-JSPClass	JSP · Servlet MVC 패턴 · 필터 · 세션, 회원 · 게시판 구현
-ORACLE-	Oracle SQL · PL/SQL 일자별 실습
-react-practice	React + Vite 게시판 CRUD
-<details> <summary>기초 실습 저장소 더 보기</summary> <br>
+| 저장소 | 내용 |
+|---|---|
+| [SpringBootClass](https://github.com/ohsubin555/SpringBootClass) | Spring Boot · JPA · Thymeleaf 실습 (방명록 · 게시판 · 영화 리뷰 · Security · JWT) |
+| [SpringLegacyClass](https://github.com/ohsubin555/SpringLegacyClass) | Spring MVC · MyBatis · 트랜잭션 · Security 실습, 게시판 (페이징 · 검색 · 댓글 · 파일 업로드) |
+| [JSPClass](https://github.com/ohsubin555/JSPClass) | JSP · Servlet MVC 패턴 · 필터 · 세션, 회원 · 게시판 구현 |
+| [ORACLE-](https://github.com/ohsubin555/ORACLE-) | Oracle SQL · PL/SQL 일자별 실습 |
+| [react-practice](https://github.com/ohsubin555/react-practice) | React + Vite 게시판 CRUD |
 
-javaPro (Java 기초 문법) · JDBCClass (JDBC 게시판) · WebClass (HTML · CSS · JS · jQuery) · ReactClass (React 컴포넌트) · JavaClass (IDE 설정 · 수업 자료)
+<details>
+<summary>기초 실습 저장소 더 보기</summary>
+<br>
 
-</details> <br>
+[javaPro](https://github.com/ohsubin555/javaPro) (Java 기초 문법) ·
+[JDBCClass](https://github.com/ohsubin555/JDBCClass) (JDBC 게시판) ·
+[WebClass](https://github.com/ohsubin555/WebClass) (HTML · CSS · JS · jQuery) ·
+[ReactClass](https://github.com/ohsubin555/ReactClass) (React 컴포넌트) ·
+[JavaClass](https://github.com/ohsubin555/JavaClass) (IDE 설정 · 수업 자료)
+
+</details>
+
+<br>
 
 ## 📫 Contact
 
